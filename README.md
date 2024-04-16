@@ -6,7 +6,9 @@ This project consists of practicing the following:
 Explore what it takes to secure a DevOps pipeline and the builds it produces. Understanding the potential risks and consequences of insecure build processes. 
 Explore common insecurities and how threat actors can exploit these to compromise not only the process, but also production systems.
 
+
 <img src="Pipeline Lieutenant.PNG" height="60%" width="60%" alt="Badge"/>
+
 ~ This room took me a while to get through. If I got stuck, I headed to  https://www.youtube.com/@TylerRamsbey - He has two great videos to assist with the room. 
 <br />
 
