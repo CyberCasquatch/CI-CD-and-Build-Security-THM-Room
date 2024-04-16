@@ -35,7 +35,7 @@ Learning Objectives for this room:
 <br />
 <br />
 As a note if you're completing this room - make sure to take notes at different intervals at credentials or syntax you may need  <br/>
-<img src="" height="80%" width="80%" alt="Notes"/>
+<img src="00 - Make sure to write down notes as you go.PNG" height="80%" width="80%" alt="Notes"/>
 <br />
 <br />
 Gathering information: getting the CICD IP - we need this throughout the room <br/>
