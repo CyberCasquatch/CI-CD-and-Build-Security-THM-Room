@@ -31,11 +31,11 @@ Learning Objectives for this room:
  - Gain awareness of the importance of integrating robust security measures into the build processes to ensure integrity with the deployment of applications.
  - Learn about the practical attacks that can happen against misconfigured CI/CD pipelines and build processes.  
 <br/>
-<img src="26 " height="80%" width="80%" alt="26"/>
+<img src="26 - that was the worst.PNG" height="80%" width="80%" alt="26"/>
 <br />
 <br />
 As a note if you're completing this room - make sure to take notes at different intervals at credentials or syntax you may need  <br/>
-<img src="00 - Make sure to write down notes as you go.PNG" height="80%" width="80%" alt="Notes"/>
+<img src="" height="80%" width="80%" alt="Notes"/>
 <br />
 <br />
 Gathering information: getting the CICD IP - we need this throughout the room <br/>
